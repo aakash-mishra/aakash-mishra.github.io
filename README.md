@@ -5,12 +5,12 @@
     * [Github](https://github.com/aakash-mishra)
     * [LinkedIn](https://www.linkedin.com/in/mishra-aakash/)
 * **Education**
-    * Master's
-        * Computer Science and Engineering from University of California, Santa Cruz, Sep 2021 - Mar 2023 (expected)
+    * Master's (Sep 2021 - Mar 2023 expected)
+        * Computer Science and Engineering from University of California, Santa Cruz
         * Courses: Computer Networks, Distributed Systems
         * Teaching assistant for Programming Languages (deals with functional programming)
-    * Bachelor's
-        * B.Tech, Information Technology from University of Mumbai | K.J Somaiya College of Engineering, Mumbai, India (August 2014 - May 2018)
+    * Bachelor's (August 2014 - May 2018)
+        * B.Tech, Information Technology from University of Mumbai, K.J Somaiya College of Engineering, Mumbai, India 
         * Relevant Courses: Data Structures and Algorithms, Operating Systems, Database Systems, Computer Architecture, Programming Languages and Web Development
         * CGPA: 8.11 out of 10
 * **Skills**
