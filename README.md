@@ -23,7 +23,7 @@
         * Saved 5.8 FTEs by migrating a customer journey evaluation workflow  from manual excel based assessment to a web-based application
         * Automated the migration from SOAP Web Services to REST APIs by parsing WSDL files and generating RAML design document and a Spring Boot starter project thereby reducing efforts from 1 week to under 5 minutes
         * Used monitoring tools like Kibana, Appdynamics and Wily to analyse 80 production incidents and provided fix where applicable
-        * Used Junit and Mockito testing frameworks and maintained a code coverage of 90\% and above for all APIs
+        * Used Junit and Mockito testing frameworks and maintained a code coverage of 90% and above for all APIs
     * WiseAtWork (Formerly RetiredNotOut) (Aug 2017 - Nov 2017), Hong Kong
         * Added new features to a job portal web application like responsive web pages, third party login, hotkeys and internationalization
     * 3MindsDigital (May 2017 - July 2017), Mumbai IN
@@ -36,7 +36,7 @@
         * Wrote 25 API endpoints, designed the database schema and set-up the CICD pipeline using Docker, Jenkins and RedHat Openshift
     * Subjective Answer Evaluation using Natural Language Processing (Bachelor's Thesis) [Paper Link](https://link.springer.com/chapter/10.1007/978-981-13-3393-4_36)
         * Developed Subjective Answer Evaluation system using Django as the web application framework and NLP techniques to evaluate students’ answers
-        * Used a combination of Latent Semantic Analysis and Information Gain with custom modifications which improved accuracy by 10\% over native algorithms.
+        * Used a combination of Latent Semantic Analysis and Information Gain with custom modifications which improved accuracy by 10% over native algorithms.
 
 * **Rewards and Recognition**
     * Shortlisted as one of the four finalists in the Unsung Hero Of The Year category at Barclays Technology Awards 2020
