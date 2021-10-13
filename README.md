@@ -18,7 +18,7 @@
     * Other: Python, Django, PHP, JPA, Hibernate, SQL, Docker, Kubernetes, Jenkins, Kibana, Linux, RedHat Openshift, RAML, JUnit, Mockito, HTML, CSS
     * Areas and Interests: Software Engineering, System Design, Distributed Systems and Cloud
 * **Work Experience**
-    * Barclays - Software Developer (July 2018, July 2021), Pune IN
+    * Barclays - Software Developer (July 2018 - July 2021), Pune IN
         * Developed and maintained 19 RESTful APIs for high-volume applications(150 TPM approx.) which are consumed across 4 channels in the bank
         * Saved 5.8 FTEs by migrating a customer journey evaluation workflow  from manual excel based assessment to a web-based application
         * Automated the migration from SOAP Web Services to REST APIs by parsing WSDL files and generating RAML design document and a Spring Boot starter project thereby reducing efforts from 1 week to under 5 minutes
