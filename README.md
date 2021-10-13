@@ -44,7 +44,7 @@
     * Secured first position for "Subjective Answer Evaluation" in Prakalpa 2018, a State Level Project Competition
 
 * **Interests and extracurricular**
-    * I enjoy building utility tools like [Vaccine Notifier](https://github.com/aakash-mishra/vaccine-notifier), [Spotify Song of the Day recommendation](https://github.com/aakash-mishra/DailySongRecommender), [Amazon product availability and price tracker](https://github.com/aakash-mishra/product-availability-tracker)
+    * I enjoy building utility tools like [Vaccine Notifier](https://github.com/aakash-mishra/vaccine-notifier), [Spotify Song of the Day recommender](https://github.com/aakash-mishra/DailySongRecommender), [Amazon product availability and price tracker](https://github.com/aakash-mishra/product-availability-tracker)
     * Reading
     * Music (I play the guitar)
     * Football (I love Chelsea!)
